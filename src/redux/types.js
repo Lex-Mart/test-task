@@ -1,0 +1,4 @@
+export const ADD_CATEGORIES = 'ADD_CATEGORIES'
+export const ADD_NEWS = 'ADD_NEWS'
+export const UPDATE_PAGE_INFO = 'UPDATE_PAGE_INFO'
+export const ADD_DETAILS = 'ADD_DETAILS'
